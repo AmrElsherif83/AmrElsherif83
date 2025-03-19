@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Amr Ahmed!
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Amr%20Ahmed%20🚀&fontSize=50&fontColor=white)
 
 🚀 **Tech Lead | Full-Stack .NET & Cloud Developer | DevOps Enthusiast**  
 💡 Passionate about **Microservices, Scalable Cloud Solutions, and Automation**
