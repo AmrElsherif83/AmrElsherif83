@@ -1,8 +1,6 @@
 # Amr Ahmed
 
-### Tech Lead & Cloud Architect
-
-**Engineering leadership · Hands-on .NET development · Azure & AWS**
+### Technical Lead & Multi-Cloud Architect | Engineering Leadership | AI & Generative AI | .NET Expertise Across Stacks | From Architecture to Delivery
 
 I combine software engineering with technical leadership to take complex platforms from architecture through production. My work spans enterprise applications, fintech, microservices, and cloud modernization.
 
@@ -12,7 +10,7 @@ I care about practical architecture, maintainable code, reliable delivery, and h
 
 - **Technical direction:** translating business requirements into architecture, engineering standards, and delivery plans.
 - **Hands-on engineering:** building .NET and C# services, REST APIs, and event-driven systems.
-- **Cloud delivery:** connecting applications with Azure, AWS, Kubernetes, infrastructure as code, and CI/CD.
+- **Multi-cloud delivery:** connecting applications with cloud platforms, Kubernetes, infrastructure as code, and CI/CD.
 - **Team development:** mentoring engineers through code reviews, architecture discussions, and knowledge sharing.
 
 ## Technical focus
@@ -21,7 +19,8 @@ I care about practical architecture, maintainable code, reliable delivery, and h
 | --- | --- |
 | Backend | C#, .NET, ASP.NET Core, REST APIs |
 | Architecture | Microservices, Clean Architecture, CQRS, event-driven systems |
-| Cloud and delivery | Azure, AWS, Docker, Kubernetes, Terraform, Helm, CI/CD |
+| Cloud and delivery | Multi-cloud architecture, Docker, Kubernetes, Terraform, Helm, CI/CD |
+| AI solutions | Generative AI, Azure OpenAI, retrieval-augmented generation (RAG), prompt engineering |
 | Data and messaging | SQL Server, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka |
 | Web and mobile | Blazor, Angular, React, Vue.js, .NET MAUI |
 
