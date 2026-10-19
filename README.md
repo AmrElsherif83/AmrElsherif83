@@ -1,49 +1,43 @@
-# 👋 Hi, I'm Amr Ahmed!
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Amr%20Ahmed%20🚀&fontSize=50&fontColor=white)
+# Amr Ahmed
 
-🚀 **Tech Lead | Full-Stack .NET & Cloud Developer | DevOps Enthusiast**  
-💡 Passionate about **Microservices, Scalable Cloud Solutions, and Automation**
+### Tech Lead & Cloud Architect
 
----
+**Engineering leadership · Hands-on .NET development · Azure & AWS**
 
-## 🔥 About Me
-- 🏆 **15+ years** of experience in **.NET, Cloud Computing, and DevOps**
-- 🎯 Expert in **.NET , ASP.NET Core, Maven , MAUI , Native Mobile Developemnt, All Typscript and NodeJS also MAven Skills, Kubernetes, Terraform, and CI/CD**
-- 🛠️ Architected and deployed **enterprise-grade applications** using **Azure & AWS**
-- ⚡ Mentor and open-source contributor in **Cloud & DevOps**
-- 🔍 Currently exploring **AI-powered DevOps automation**
+I combine software engineering with technical leadership to take complex platforms from architecture through production. My work spans enterprise applications, fintech, microservices, and cloud modernization.
 
----
+I care about practical architecture, maintainable code, reliable delivery, and helping engineers grow.
 
-## 🚀 Tech Stack & Tools
+## What I bring
 
-**💻 Backend & Frameworks:**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+- **Technical direction:** translating business requirements into architecture, engineering standards, and delivery plans.
+- **Hands-on engineering:** building .NET and C# services, REST APIs, and event-driven systems.
+- **Cloud delivery:** connecting applications with Azure, AWS, Kubernetes, infrastructure as code, and CI/CD.
+- **Team development:** mentoring engineers through code reviews, architecture discussions, and knowledge sharing.
 
-**🎨 Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+## Technical focus
 
-**☁️ Cloud & DevOps:**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+| Area | Technologies and practices |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, REST APIs |
+| Architecture | Microservices, Clean Architecture, CQRS, event-driven systems |
+| Cloud and delivery | Azure, AWS, Docker, Kubernetes, Terraform, Helm, CI/CD |
+| Data and messaging | SQL Server, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka |
+| Web and mobile | Blazor, Angular, React, Vue.js, .NET MAUI |
 
-**🗄️ Databases:**  
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+## Repositories to explore
 
----
+- **[StorageMicroservice](https://github.com/AmrElsherif83/StorageMicroservice)** — storage service design covering provider abstraction, CQRS, messaging, and file workflows across Azure Blob Storage, Amazon S3, and local storage.
+- **[MicroBlogger](https://github.com/AmrElsherif83/MicroBlogger)** — a .NET and Blazor repository with Minimal APIs, Aspire, and PWA concepts.
 
+Explore the repository documentation for scope, setup, and implementation details.
 
----
+## Knowledge sharing
 
-## 📊 GitHub Stats
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrElsherif83&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrElsherif83&layout=compact&theme=dark)
+I write about Kubernetes, DevOps, GitOps, and distributed systems, drawing on practical engineering experience. I am also exploring AI-assisted automation for engineering and operations.
 
----
+## Connect
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amro-elsherif) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmrElsherif83) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amr.elsherif83@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/amro-elsherif/) · [Email](mailto:amr.elsherif83@gmail.com)
 
----
-
-💡 _"Passionate about building scalable solutions and mentoring developers worldwide!"_
+Open to conversations about technical leadership, cloud architecture, and dependable software delivery.
